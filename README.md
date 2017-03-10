@@ -18,7 +18,11 @@ Github profile URL
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These samples use the Gradle build system.
+
+First download the samples by cloning this repository.
+
+In Android Studio, use the "Import non-Android Studio project" or "Import Project" option. Next select one of the sample directories that you downloaded from this repository. If prompted for a gradle configuration accept the default settings.
 
 ### Prerequisites
 
