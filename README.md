@@ -9,8 +9,11 @@ User’s GitHub username
 **Clicking on each profile on the list  shows profile details,which include:-**
 
 The profile screen contains:
+
 Username
+
 Profile photo
+
 Github profile URL
 
 ## Getting Started
