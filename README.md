@@ -1,6 +1,9 @@
-# github-api
+# github-api 
+Android app wich retrieve a list of Java Developers in Lagos using the Github API 
+Display the list of developers on a list. Each item on the list should have:
+User’s profile image
+User’s GitHub username
 
-One Paragraph of project description goes here
 
 ## Getting Started
 
