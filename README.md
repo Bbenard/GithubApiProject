@@ -6,7 +6,7 @@ User’s profile image
 
 User’s GitHub username
 
-**Clicking each profile on the list  shows profile details.**
+**Clicking on each profile on the list  shows profile details,which include:-**
 
 The profile screen contains:
 Username
