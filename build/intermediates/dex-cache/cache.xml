@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_593396dd03b12446743cc9b72ed2a3aa2f950811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_34c98c80009eb0447595df8d16143cdaea5d3a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_ba50be42779fa5e6de1584a90fbd04030f32917b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_2ae831b4094b9abefc110d6505087429a57fb0b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8d73c9d8b88b906e97737da44f2cd88f097b2476">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa3584e09e1d5f2d7b451a6c507b2eba0c639126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_2e3b91cea15aa3a37e74114591a19ba6a107ace6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_1faea11deecdfb8b6735775209983037e16ef104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_7750a4b3f225aa824244f88a0aca594e165cc4db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_c337a01806490fd085fe46c31d6c26661b6eed10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_94ed82713c83d51c38267cbab0aca64be03a92f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_9b64a00ef85425c00680e755b50a545cd858486e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1061f50e5dc2d3cf5c09a6d7c564cfe7084ef182">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d8605fd6995bee918e760de65718106b613d2491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_6af81a54e5f038aec218fa71bb6bf743377079b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/mark/Appvault/Apps/GithubApiProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_61d279ced5bfd3b573bcdcbea4fbf0b244c53c28/classes.dex" />
+    </item>
+
+</items>
